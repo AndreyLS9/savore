@@ -141,13 +141,13 @@ Este é um projeto front-end estático. Não é necessário um *build* ou um ser
 1.  Clone o repositório para sua máquina local:
 
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone
     ```
 
 2.  Navegue até o diretório do projeto:
 
     ```bash
-    cd [NOME_DA_PASTA_DO_PROJETO]
+    cd 
     ```
 
 3.  Abra o arquivo `index.html` diretamente no seu navegador de preferência (Google Chrome, Firefox, etc.).
